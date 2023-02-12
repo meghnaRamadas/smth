@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(138, 138, 138);
+   color: rgb(23, 23, 23);
+}
+.heading{
+    color: rgb(58, 55, 50);
+    font-size: 35px;
+    width: 50%;
+    font-weight: bold;
+}
+
+.item{
+    background-color: antiquewhite;
+    width:300px;
+}
+
+.obj{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+#obj_name,#obj_accuracy{
+color: rgb(35, 35, 35);
+}
+
+#webcam{
+    width: 350px;
+    height: 350px;
+}
+
+button{
+    background-color: rgb(37, 36, 36);
+    color: aliceblue;
+}
